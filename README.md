@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Next.js,WebRTC,WebSocket**
 
-- 💬 Ask me about **react,Java,Express**
+- 💬 Ask me about **React,Java,Express**
 
 - 📫 How to reach me **deepgalani126@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https:/x.com/deep_galani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d" height="30" width="40" /></a>
+<a href="https://twitter.com/deep_galani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
